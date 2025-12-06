@@ -1,24 +1,20 @@
 @import "tailwindcss";
 
+/* Default light mode values (but you want black anyway) */
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #000000;   /* Whole website background is black */
+  --foreground: #ffffff;   /* Text color white */
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
+/* Dark mode settings */
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --background: #000000;
+    --foreground: #ffffff;
   }
 }
 
+/* Apply global styles */
 body {
   background: var(--background);
   color: var(--foreground);
