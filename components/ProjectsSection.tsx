@@ -14,7 +14,7 @@ export default function ProjectsSection() {
       tools: "React, HTML, CSS, JavaScript",
       description:
         "A K-pop showcase and e-commerce website featuring popular groups, their members, and albums. Includes a built-in store for purchasing official merchandise.",
-      image: "/pic1.jpg",
+      image: "/KPOP-ON.png",
       link: "#",
     },
     {
@@ -22,7 +22,7 @@ export default function ProjectsSection() {
       tools: "React, HTML, CSS, JavaScript",
       description:
         "A web-based system that helps students track their OJT attendance and completed hours. Administrators can monitor and manage records easily.",
-      image: "/pic1.jpg",
+      image: "/NEU OJT.png",
       link: "#",
     },
     {
@@ -30,15 +30,15 @@ export default function ProjectsSection() {
       tools: "React Native, TypeScript, Supabase",
       description:
         "A mobile + web app for recording, tracking, and managing student violations, featuring secure cloud-based storage and real-time monitoring.",
-      image: "/pic1.jpg",
-      link: "#",
+      image: "/NEU VIOMATE.png",
+      link: "https://nuview-student-tracker-mauve.vercel.app/",
     },
     {
       title: "NEU Campus Navigator",
       tools: "React Native, TypeScript",
       description:
         "A smart navigation system using the A* pathfinding algorithm to simulate optimized routing within a campus environment.",
-      image: "/pic1.jpg",
+      image: "/NEU CAMPUS NAV.png",
       link: "#",
     },
     {
@@ -46,7 +46,7 @@ export default function ProjectsSection() {
       tools: "Python",
       description:
         "A multi-modal ML system that analyzes a dog's facial expressions and body movements using CNN + RNN to classify emotions.",
-      image: "/pic1.jpg",
+      image: "/Dog.avif",
       link: "#",
     },
   ];

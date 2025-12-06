@@ -2,7 +2,7 @@
 
 export default function Footer() {
   return (
-    <footer className="bg-black text-gray-400 py-6 mt-20">
+    <footer className="bg-black text-gray-400 mb-7">
     {/* Divider line */}
       <div className="border-t border-gray-800 mb-4"></div>
 

@@ -20,10 +20,10 @@ export default function ContactsSection() {
           <a href="https://facebook.com" target="_blank">
             <FaFacebook className="cursor-pointer hover:scale-110 transition transform" />
           </a>
-          <a href="mailto:youremail@example.com">
+          <a href="mailto:shannori0807@gmail.com">
             <FaEnvelope className="cursor-pointer hover:scale-110 transition transform" />
           </a>
-          <a href="https://linkedin.com" target="_blank">
+          <a href="https://www.linkedin.com/in/shania-mae-ucag-8253a93a0/" target="_blank">
             <FaLinkedin className="cursor-pointer hover:scale-110 transition transform" />
           </a>
           <a href="https://instagram.com" target="_blank">
